@@ -1,7 +1,7 @@
 # A Todo List React App
 Basic Todo list app with add items,delete and search
 
-![alt text](http://url/to/img.png)
+![alt text]([http://url/to/img.png](https://github.com/HarishRJ/Todo-list/blob/master/Screenshot%2017-06-2023%2017_04_01.png))
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
